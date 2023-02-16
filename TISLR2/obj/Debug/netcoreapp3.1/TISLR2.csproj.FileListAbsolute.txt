@@ -1,0 +1,249 @@
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfoInputs.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfo.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.Manifest.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.xml
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TISLR2.styles.css
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.input.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.output.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorCoreGenerate.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.exe
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.deps.json
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.json
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.dev.json
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.Views.pdb
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CopyComplete
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.genruntimeconfig.cache
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Ruslan\source\repos\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.exe
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.deps.json
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.json
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.dev.json
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csprojAssemblyReference.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfoInputs.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfo.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CoreCompileInputs.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.Manifest.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.xml
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TISLR2.styles.css
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.input.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.output.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorCoreGenerate.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cache
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cs
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.Views.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CopyComplete
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.dll
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.pdb
+C:\Users\oobit\OneDrive\Рабочий стол\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.genruntimeconfig.cache
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.exe
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.deps.json
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.json
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.runtimeconfig.dev.json
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\TISLR2.Views.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Moq.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROGRAMMING\TISLR2\TISLR2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csprojAssemblyReference.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfoInputs.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.AssemblyInfo.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorAssemblyInfo.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.Manifest.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\staticwebassets\TISLR2.StaticWebAssets.xml
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TISLR2.styles.css
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.input.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.TagHelpers.output.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorCoreGenerate.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cache
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.RazorTargetAssemblyInfo.cs
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.Views.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.csproj.CopyComplete
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.dll
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.pdb
+D:\PROGRAMMING\TISLR2\TISLR2\obj\Debug\netcoreapp3.1\TISLR2.genruntimeconfig.cache
